@@ -1,0 +1,11 @@
+C:\Users\CEMRESU\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Users\CEMRESU\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\CEMRESU\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\CEMRESU\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\CEMRESU\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Form1.resources
+C:\Users\CEMRESU\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Properties.Resources.resources
+C:\Users\CEMRESU\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.cache
+C:\Users\CEMRESU\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\CEMRESU\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Users\CEMRESU\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+C:\Users\CEMRESU\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.RegisterForm.resources
